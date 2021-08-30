@@ -16,9 +16,9 @@
 
 ## => Site Settings
 ##############################
-text_skin: forest # "default" (default), "dark", "forest", "ocean", "chocolate", "orange"
-highlight_theme: tomorrow # "default" (default), "tomorrow", "tomorrow-night", "tomorrow-night-eighties", "tomorrow-night-blue", "tomorrow-night-bright"
-url     : https://cencivic.github.io/
+text_skin: "forest" # "default" (default), "dark", "forest", "ocean", "chocolate", "orange"
+highlight_theme: "tomorrow" # "default" (default), "tomorrow", "tomorrow-night", "tomorrow-night-eighties", "tomorrow-night-blue", "tomorrow-night-bright"
+url     : "https://cencivic.github.io/"
 baseurl : # does not include hostname
 title   : Your Site Title
 description: > # this means to ignore newlines until "Language & timezone"
